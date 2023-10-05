@@ -1,5 +1,5 @@
 body {
-    background-color: #E6E6E6;
+    background-color: #F0F0F0;
 }
 
 .icon-color {
@@ -12,4 +12,33 @@ body {
     align-items: center;
     font-weight: bold;
     font-family: anton regular, serif;
+}
+
+.selected-work {
+    border: 5px solid #E6E6E6;
+}
+
+.footer{
+    background-color: #F0F0F0;
+    border: none;
+}
+
+#footer-icon1 {
+    border-radius: 50%;
+    background-color: #E6563B;
+}
+
+#footer-icon2 {
+    border-radius: 50%;
+    background-color: #EB9D3A;
+}
+
+#footer-icon3 {
+    border-radius: 50%;
+    background-color: #7CB06C;
+}
+
+#footer-icon4 {
+    border-radius: 50%;
+    background-color: #00ABA9;
 }
