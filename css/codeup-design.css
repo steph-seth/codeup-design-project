@@ -42,3 +42,9 @@ body {
     border-radius: 50%;
     background-color: #00ABA9;
 }
+
+.the-last {
+    border: none;
+    background-color: transparent;
+
+}
