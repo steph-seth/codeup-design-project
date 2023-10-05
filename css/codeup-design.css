@@ -24,7 +24,7 @@ body {
 }
 
 #footer-icon1 {
-    border-radius: 50%;
+    border-radius: 100%;
     background-color: #E6563B;
 }
 
@@ -47,4 +47,8 @@ body {
     border: none;
     background-color: transparent;
 
+}
+
+.the-last-border {
+    border: 3px solid #E6E6E6;
 }
